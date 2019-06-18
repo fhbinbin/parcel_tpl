@@ -1,0 +1,5 @@
+html { padding: 0; margin: 0; }
+
+.flex-box { display: flex; flex-flow: row nowrap; justify-content: space-around; background: url("../img/logo.png"); }
+
+.flex-box .flex-item { flex: 1; }
